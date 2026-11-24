@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chadsalwey5-png.github.io/starbetapp-net-docs/sitemap.xml
